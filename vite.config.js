@@ -4,6 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // base: "https://martl7.github.io/February-Declaration/",
-  base: 'https://alan-gp.github.io',
+  base: 'https://alan-gp.github.io/San-Valentin/',
 })
